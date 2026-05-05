@@ -1,0 +1,2 @@
+npm error config prefix cannot be changed from project config: /home/arc/.npmrc.
+10.9.4

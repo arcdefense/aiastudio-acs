@@ -1,0 +1,4 @@
+genieacs-cwmp.service                                                         enabled         enabled
+genieacs-fs.service                                                           enabled         enabled
+genieacs-nbi.service                                                          enabled         enabled
+genieacs-ui.service                                                           enabled         enabled
